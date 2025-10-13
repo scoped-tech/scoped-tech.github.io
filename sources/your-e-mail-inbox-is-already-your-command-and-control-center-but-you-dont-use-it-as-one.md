@@ -73,7 +73,7 @@ You are aware of course that before mail became electronic it used to get delive
 
 Because if there's a significant amount of mail it would mean that if it is a part of your job to communicate with that many correspondents you've probably got an employee doing a large part of that correspondence for you.
 
-What, have we all become so important that we have to decide on and discuss as large a volume of information as an industry titan from the 20th century would ... but on lemonade stand budget?
+What, have we all become so important that we have to decide on and discuss as large a volume of information as an industry titan from the 20th century would ... but on a lemonade stand budget?
 
 Everyone thinks their inbox is the problem, the point of this post is - if your inbox is so cluttered you're even interested in this topic you've got much, much bigger problems.
 And scoped-tech is all about implementing software solutions to not only make you excel at what you do but also make those bigger problems painfully obvious to the point something is done about them.
